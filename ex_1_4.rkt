@@ -1,6 +1,6 @@
 #|
-file: ex_1_3.rkt
-brief: Soulution to exercise 1.3.
+file: ex_1_4.rkt
+brief: Soulution to exercise 1.4.
 author: guylev38
 |#
 
